@@ -1,0 +1,25 @@
+{
+  "name": "roulettegamesolana",
+  "version": "1.0.0",
+  "description": "This is a Roulette Game on Solana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iswarmondal/RouletteGameSolana.git"
+  },
+  "keywords": [
+    "Solana"
+  ],
+  "author": "Iswar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iswarmondal/RouletteGameSolana/issues"
+  },
+  "homepage": "https://github.com/iswarmondal/RouletteGameSolana#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
+  }
+}
